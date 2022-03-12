@@ -1,0 +1,25 @@
+.App {
+  background-color: #fff;
+  margin: 1.5rem;
+
+  li {
+    font-size: 1.5rem;
+  }
+
+  pre {
+    display: block;
+    padding: 10px 30px;
+    margin: 0;
+    overflow: scroll;
+    background-color: #1f4662;
+    color: #fff;
+  }
+
+  section {
+    margin: 1rem 0;
+  }
+
+  code {
+    color: #b0b0b0;
+  }
+}
