@@ -344,3 +344,8 @@ export const bulkSuccess = [
         user: 1,
     },
 ];
+
+export const arrangement = [
+    { korean: "코드쿤스트", english: "Kokun" },
+    { korean: "황현부", english: "HyunBoo" },
+];
